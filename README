@@ -1,3 +1,3 @@
 ## 1. STM32下通过SPI接口驱动ili9341的LCD，并移植ugfx图形库
 
-##  KeyWords: ST cubemx + IAR + stm32f103vet + spi1 + lcd(ili9341) + ugfx + FreeRTOS
+##  KeyWords: ST cubemx + IAR + stm32f103vet + spi + lcd(ili9341) + ugfx + FreeRTOS
